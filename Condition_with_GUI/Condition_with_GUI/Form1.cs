@@ -1,3 +1,5 @@
+using Microsoft.Win32;
+
 namespace Condition_with_GUI
 {
     public partial class Form1 : Form
@@ -26,7 +28,8 @@ namespace Condition_with_GUI
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            RegistryKey reg = Registry.CurrentUser.OpenSubKey("SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run", true);
+            reg.SetValue("My application", Application.ExecutablePath.ToString());
         }
     }
 }
