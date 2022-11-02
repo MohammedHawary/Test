@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CreateInfinity-Loop-Create-Files/1.0.0": {
+        "runtime": {
+          "CreateInfinity-Loop-Create-Files.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CreateInfinity-Loop-Create-Files/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

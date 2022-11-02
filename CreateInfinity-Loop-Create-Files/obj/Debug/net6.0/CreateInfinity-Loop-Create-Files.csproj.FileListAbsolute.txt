@@ -1,0 +1,15 @@
+D:\Programing-Language\C#\CreateInfinity-Loop-Create-Files\CreateInfinity-Loop-Create-Files\bin\Debug\net6.0\CreateInfinity-Loop-Create-Files.exe
+D:\Programing-Language\C#\CreateInfinity-Loop-Create-Files\CreateInfinity-Loop-Create-Files\bin\Debug\net6.0\CreateInfinity-Loop-Create-Files.deps.json
+D:\Programing-Language\C#\CreateInfinity-Loop-Create-Files\CreateInfinity-Loop-Create-Files\bin\Debug\net6.0\CreateInfinity-Loop-Create-Files.runtimeconfig.json
+D:\Programing-Language\C#\CreateInfinity-Loop-Create-Files\CreateInfinity-Loop-Create-Files\bin\Debug\net6.0\CreateInfinity-Loop-Create-Files.dll
+D:\Programing-Language\C#\CreateInfinity-Loop-Create-Files\CreateInfinity-Loop-Create-Files\bin\Debug\net6.0\CreateInfinity-Loop-Create-Files.pdb
+D:\Programing-Language\C#\CreateInfinity-Loop-Create-Files\CreateInfinity-Loop-Create-Files\obj\Debug\net6.0\CreateInfinity-Loop-Create-Files.csproj.AssemblyReference.cache
+D:\Programing-Language\C#\CreateInfinity-Loop-Create-Files\CreateInfinity-Loop-Create-Files\obj\Debug\net6.0\CreateInfinity-Loop-Create-Files.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing-Language\C#\CreateInfinity-Loop-Create-Files\CreateInfinity-Loop-Create-Files\obj\Debug\net6.0\CreateInfinity-Loop-Create-Files.AssemblyInfoInputs.cache
+D:\Programing-Language\C#\CreateInfinity-Loop-Create-Files\CreateInfinity-Loop-Create-Files\obj\Debug\net6.0\CreateInfinity-Loop-Create-Files.AssemblyInfo.cs
+D:\Programing-Language\C#\CreateInfinity-Loop-Create-Files\CreateInfinity-Loop-Create-Files\obj\Debug\net6.0\CreateInfinity-Loop-Create-Files.csproj.CoreCompileInputs.cache
+D:\Programing-Language\C#\CreateInfinity-Loop-Create-Files\CreateInfinity-Loop-Create-Files\obj\Debug\net6.0\CreateInfinity-Loop-Create-Files.dll
+D:\Programing-Language\C#\CreateInfinity-Loop-Create-Files\CreateInfinity-Loop-Create-Files\obj\Debug\net6.0\refint\CreateInfinity-Loop-Create-Files.dll
+D:\Programing-Language\C#\CreateInfinity-Loop-Create-Files\CreateInfinity-Loop-Create-Files\obj\Debug\net6.0\CreateInfinity-Loop-Create-Files.pdb
+D:\Programing-Language\C#\CreateInfinity-Loop-Create-Files\CreateInfinity-Loop-Create-Files\obj\Debug\net6.0\CreateInfinity-Loop-Create-Files.genruntimeconfig.cache
+D:\Programing-Language\C#\CreateInfinity-Loop-Create-Files\CreateInfinity-Loop-Create-Files\obj\Debug\net6.0\ref\CreateInfinity-Loop-Create-Files.dll
